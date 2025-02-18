@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.mlife.app",
+            "sha256_cert_fingerprints": [
+                "E4:EA:D5:D4:67:27:41:99:BD:CB:7F:C9:C0:95:8E:DC:5C:95:9B:06:9B:0F:F4:1D:24:0F:E7:24:2C:30:94:82"
+            ]
+        }
+    }
+]
